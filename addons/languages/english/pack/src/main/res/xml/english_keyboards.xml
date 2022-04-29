@@ -61,4 +61,8 @@
               layoutResId="@xml/minimal_qwerty" id="a59067bb-46d3-48a6-9ede-ccc3ace13a04"
               defaultDictionaryLocale="en" description="@string/minimal_qwerty_keyboard_description"
               index="13"/>
+    <Keyboard nameResId="@string/colemak_DHk_keyboard" iconResId="@drawable/ic_status_english"
+              layoutResId="@xml/colemak_DHk" id="86770389-9f38-4654-9e29-68d503410fce"
+              defaultDictionaryLocale="en" description="@string/colemak_DHk_keyboard_description"
+              index="14"/>
 </Keyboards>
