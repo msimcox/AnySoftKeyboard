@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary
+        autoTextResourceId="@xml/englishcolemakdhk_autotext"
+        description="@string/englishcolemakdhk_dictionary_description"
+        dictionaryResourceId="@array/englishcolemakdhk_words_dict_array"
+        id="77c3e589-9fbb-46d2-a5de-79ed992d2174"
+        initialSuggestions="@array/englishcolemakdhk_initial_suggestions"
+        locale="en"
+        nameResId="@string/englishcolemakdhk_dictionary"
+        type="binary_resource" />
+</Dictionaries>

@@ -1,5 +1,5 @@
 ext.shouldBePublished = false
-ext.notPublishingReason = 'Part of the main AnySoftKeyboard app.'
+ext.notPublishingReason = 'Initial version has not been published yet.'
 
 apply from: "$rootDir/addons/gradle/pack_apk.gradle"
 
