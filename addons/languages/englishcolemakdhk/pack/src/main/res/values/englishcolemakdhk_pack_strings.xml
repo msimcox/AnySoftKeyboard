@@ -1,0 +1,5 @@
+<resources>
+    <string name="englishcolemakdhk_dictionary_description">English</string>
+    <string name="englishcolemakdhk_keyboard_description">Colemak DHk</string>
+    <string name="englishcolemakdhk_keyboard_symbols_description">Colemak DHk Latin keyboard with symbols (on long press)</string>
+</resources>

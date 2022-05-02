@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <Keyboard nameResId="@string/englishcolemakdhk_keyboard" iconResId="@drawable/ic_status_english"
+              layoutResId="@xml/qwerty" id="@string/main_englishcolemakdhk_keyboard_id"
+              defaultDictionaryLocale="en" description="@string/englishcolemakdhk_keyboard_description"
+              index="1" defaultEnabled="true"
+              physicalKeyboardMappingResId="@xml/englishcolemakdhk_physical" />
+    <!-- <Keyboard nameResId="@string/colemakdhk_keyboard" iconResId="@drawable/ic_status_english"
+              layoutResId="@xml/colemakdhk" id="6b66eea1-896e-4903-93d8-358f667ef711"
+              defaultDictionaryLocale="en" description="@string/englishcolemakdhk_keyboard_description"
+              index="2"/> -->
+    <Keyboard nameResId="COLEMAKDHK" iconResId="@drawable/ic_status_english"
+              layoutResId="@xml/colemakdhk" id="6b66eea1-896e-4903-93d8-358f667ef711"
+              defaultDictionaryLocale="en" description="@string/englishcolemakdhk_keyboard_description"
+              index="2"/>
+</Keyboards>

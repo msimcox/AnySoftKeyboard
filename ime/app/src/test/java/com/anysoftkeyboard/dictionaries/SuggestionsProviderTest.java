@@ -507,7 +507,7 @@ public class SuggestionsProviderTest {
                     "en",
                     R.array.english_words_dict_array,
                     english_autotext,
-                    english_initial_suggestions);
+                    englishcolemakdhk_initial_suggestions);
             mSpiedDictionary = Mockito.spy(new FakeBTreeDictionary(wordsToLoad));
         }
 
