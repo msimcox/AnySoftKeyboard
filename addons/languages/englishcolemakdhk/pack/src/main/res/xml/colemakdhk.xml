@@ -6,16 +6,16 @@
     android:keyHeight="@integer/key_normal_height">
     
     <Row>
-        <Key android:codes="08" android:keyLabel="1" android:popupCharacters="1" ask:hintLabel="1" android:keyEdgeFlags="left"/>
-        <Key android:codes="09" android:keyLabel="2" android:popupCharacters="2ŵω" ask:hintLabel="2"/>
-        <Key android:codes="0a" android:keyLabel="3" android:popupCharacters="3ϕ" ask:hintLabel="3"/>
-        <Key android:codes="0b" android:keyLabel="4" android:popupCharacters="4π" ask:hintLabel="4"/>
-        <Key android:codes="0c" android:keyLabel="5" android:popupCharacters="5ĝ" ask:hintLabel="5"/>
-        <Key android:codes="0d" android:keyLabel="6" android:popupCharacters="6ĵ" ask:hintLabel="6"/>
-        <Key android:codes="0e" android:keyLabel="7" android:popupCharacters="7ľĺłλ" ask:hintLabel="7"/>
-        <Key android:codes="0f" android:keyLabel="8" android:popupCharacters="8ùúǔûüŭűūυ" ask:hintLabel="8"/>
-        <Key android:codes="10" android:keyLabel="9" android:popupCharacters="9ýÿψ" ask:hintLabel="9"/>
-        <Key android:codes="07" android:keyLabel="0" android:popupCharacters="0:" ask:hintLabel="0" android:keyEdgeFlags="right"/>
+        <Key android:codes="49" android:keyLabel="1" android:popupCharacters="!" ask:hintLabel="!" android:keyEdgeFlags="left"/>
+        <Key android:codes="50" android:keyLabel="2" android:popupCharacters="@" ask:hintLabel="@"/>
+        <Key android:codes="51" android:keyLabel="3" android:popupCharacters="#" ask:hintLabel="#"/>
+        <Key android:codes="52" android:keyLabel="4" android:popupCharacters="$" ask:hintLabel="$"/>
+        <Key android:codes="53" android:keyLabel="5" android:popupCharacters="%" ask:hintLabel="%"/>
+        <Key android:codes="54" android:keyLabel="6" android:popupCharacters="^" ask:hintLabel="^"/>
+        <Key android:codes="55" android:keyLabel="7" android:popupCharacters="&amp;" ask:hintLabel="&amp;"/>
+        <Key android:codes="56" android:keyLabel="8" android:popupCharacters="*" ask:hintLabel="*"/>
+        <Key android:codes="57" android:keyLabel="9" android:popupCharacters="(" ask:hintLabel="("/>
+        <Key android:codes="48" android:keyLabel="0" android:popupCharacters=")" ask:hintLabel=")" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>

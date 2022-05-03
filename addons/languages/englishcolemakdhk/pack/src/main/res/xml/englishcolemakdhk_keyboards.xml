@@ -9,12 +9,12 @@
               layoutResId="@xml/colemakdhk" id="6b66eea1-896e-4903-93d8-358f667ef711"
               defaultDictionaryLocale="en" description="@string/englishcolemakdhk_keyboard_description"
               index="2"/> -->
-    <Keyboard nameResId="COLEMAKDHK" iconResId="@drawable/ic_status_english"
+    <Keyboard nameResId="DHk" iconResId="@drawable/ic_status_english"
               layoutResId="@xml/colemakdhk" id="6b66eea1-896e-4903-93d8-358f667ef711"
               defaultDictionaryLocale="en" description="@string/englishcolemakdhk_keyboard_description"
               index="2"/>
-    <Keyboard nameResId="COLEMAKDHK" iconResId="@drawable/ic_status_english"
+    <!-- <Keyboard nameResId="DHk" iconResId="@drawable/ic_status_english"
               layoutResId="@xml/terminal" id="5e455ee9-12ca-4e19-83f0-0497ff7d4b4a"
-              defaultDictionaryLocale="en" description="@string/englishcolemakdhk_keyboard_description"
-              index="2"/>
+              defaultDictionaryLocale="en" description="Dhk 5 Row"
+              index="3"/> -->
 </Keyboards>
