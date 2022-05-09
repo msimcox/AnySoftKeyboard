@@ -16,7 +16,7 @@
         <Key android:codes="55" android:keyLabel="7" android:popupCharacters="&amp;" ask:hintLabel="&amp;"/>
         <Key android:codes="56" android:keyLabel="8" android:popupCharacters="*" ask:hintLabel="*"/>
         <Key android:codes="57" android:keyLabel="9" android:popupCharacters="(" ask:hintLabel="("/>
-        <Key android:codes="57" android:keyLabel="9" android:popupCharacters="(" ask:hintLabel="("/>
+        <Key android:codes="48" android:keyLabel="0" android:popupCharacters=")" ask:hintLabel=")"/>
         <Key android:codes="-" android:keyLabel="-" android:popupCharacters="_" ask:hintLabel="_" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
@@ -35,7 +35,7 @@
     </Row>
 
     <Row>
-        <Key android:keyWidth="4.15%p" android:codes="\" android:keyLabel="\" android:popupCharacters="|" ask:hintLabel="|" android:keyEdgeFlags="left"/>
+        <Key android:keyWidth="4.15%p" android:codes="&#92;" android:keyLabel="&#92;" android:popupCharacters="|" ask:hintLabel="|" android:keyEdgeFlags="left"/>
         <Key android:codes="'" android:keyLabel="'" android:popupCharacters="&quot;" ask:hintLabel="&quot;"/>
         <Key android:codes="97" android:keyLabel="a" android:popupCharacters="A" ask:hintLabel="A"/>
         <Key android:codes="114" android:keyLabel="r" android:popupCharacters="R" ask:hintLabel="R"/>
@@ -60,7 +60,7 @@
         <Key android:codes="122" android:keyLabel="z" android:popupCharacters="Z" ask:hintLabel="Z"/>
         <Key android:codes="109" android:keyLabel="m" android:popupCharacters="M" ask:hintLabel="M"/>
         <Key android:codes="104" android:keyLabel="h" android:popupCharacters="H" ask:hintLabel="H"/>
-        <Key android:codes="," android:keyLabel="," android:popupCharacters="&lt;" ask:hintLabel="&lt;"/>
+        <Key android:codes="&#44;" android:keyLabel="&#44;" android:popupCharacters="&lt;" ask:hintLabel="&lt;"/>
         <Key android:codes="." android:keyLabel="." android:popupCharacters="&gt;" ask:hintLabel="&gt;"/>
         <Key android:codes="-5" android:isRepeatable="true" android:keyEdgeFlags="right"/>
     </Row>
