@@ -61,4 +61,8 @@
               layoutResId="@xml/minimal_qwerty" id="a59067bb-46d3-48a6-9ede-ccc3ace13a04"
               defaultDictionaryLocale="en" description="@string/minimal_qwerty_keyboard_description"
               index="13"/>
+    <Keyboard nameResId="@string/mars_qwerty"
+              layoutResId="@xml/mars_qwerty" id="c5f5f5fa-d482-4dda-99d2-0ad18fc0cb5e"
+              defaultDictionaryLocale="en" description="@string/mars_qwerty_desc"
+              index="14"/>
 </Keyboards>

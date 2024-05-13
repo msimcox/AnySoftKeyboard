@@ -16,7 +16,8 @@
     <string name="halmak_keyboard">Halmak</string>
     <string name="english_keyboard_qwertz_symbols">English</string>
     <string name="minimal_qwerty_keyboard">English</string>
-    <string name="main_english_keyboard_id">c7535083-4fe6-49dc-81aa-c5438a1a343a</string>
+    <string name="mars_qwerty">Mars QWERTY</string>
+    <string name="main_english_keyboard_id">9f8f0f54-54f1-4474-83b8-c00a16fb96e7</string>
 
     <string-array name="english_initial_suggestions">
         <item>!</item>
